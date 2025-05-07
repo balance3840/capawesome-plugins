@@ -1,5 +1,5 @@
 {
-  "name": "@capawesome/capacitor-file-picker",
+  "name": "@restrella/capacitor-file-picker",
   "version": "7.0.1",
   "description": "Capacitor plugin that allows the user to select a file.",
   "main": "dist/plugin.cjs.js",
@@ -14,7 +14,7 @@
     "CapawesomeCapacitorFilePicker.podspec",
     "Package.swift"
   ],
-  "author": "Robin Genz <mail@robingenz.dev>",
+  "author": "Ramiro Estrella",
   "license": "MIT",
   "repository": {
     "type": "git",

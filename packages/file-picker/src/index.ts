@@ -8,5 +8,7 @@ const FilePicker = registerPlugin<FilePickerPlugin>('FilePicker', {
   web: () => new web.FilePickerWeb(),
 });
 
+const FilePickerWeb = web.FilePickerWeb;
+
 export * from './definitions';
-export { FilePicker };
+export { FilePicker, FilePickerWeb };
